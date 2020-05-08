@@ -15,9 +15,7 @@
     "react-router-dom": "^5.1.2",
     "styled-components": "^5.1.0"
   },
-  "resolutions": {
-    "react-dev-utils": "10.1.0"
-  },
+
   "scripts": {
     "start": "nw-react-scripts start",
     "build": "nw-react-scripts build",
